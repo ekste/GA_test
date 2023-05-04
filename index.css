@@ -12,6 +12,8 @@ body {
 }
 
 h1 {
+    text-align: center;
+    padding: 1rem;
     color: #eee;
     margin: 0;
     font-size: 3rem;
